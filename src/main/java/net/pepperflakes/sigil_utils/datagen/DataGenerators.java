@@ -29,11 +29,12 @@ public class DataGenerators {
                 List.of(new LootTableProvider.SubProviderEntry(SigilUtils_BlockLootTableProvider::new, LootContextParamSets.BLOCK)), lookupProvider));
         generator.addProvider(event.includeServer(), new SigilUtils_RecipeProvider(packOutput, lookupProvider));
 
-        BlockTagsProvider blockTagsProvider = new SigilUtils_BlockTagsProvider(packOutput, lookupProvider, existingFileHelper);
+        BlockTagsProvider blockTagsProvider = new SigilUtils_BlockTagProvider(packOutput, lookupProvider, existingFileHelper);
         generator.addProvider(event.includeServer(), blockTagsProvider);
-        generator.addProvider(event.includeServer(), new SigilUtils_ItemTagsProvider(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
+        generator.addProvider(event.includeServer(), new SigilUtils_ItemTagProvider(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
 
         generator.addProvider(event.includeServer(), new SigilUtils_DataMapProvider(packOutput, lookupProvider));
+
 
         generator.addProvider(event.includeClient(), new SigilUtils_ItemModelProvider(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new SigilUtils_BlockStateProvider(packOutput, existingFileHelper));

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "sigil_utils:light_blue_reglazed_terracotta"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:light_blue_glazed_terracotta"
+  }
+}

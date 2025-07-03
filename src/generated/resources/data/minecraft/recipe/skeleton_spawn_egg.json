@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:bone"
+    },
+    "B": {
+      "item": "minecraft:arrow"
+    },
+    "E": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BEB",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:skeleton_spawn_egg"
+  }
+}

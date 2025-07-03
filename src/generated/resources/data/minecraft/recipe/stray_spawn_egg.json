@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:ring_of_transmutation"
+    },
+    {
+      "item": "minecraft:skeleton_spawn_egg"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stray_spawn_egg"
+  }
+}

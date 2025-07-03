@@ -1,10 +1,10 @@
 package net.pepperflakes.sigil_utils.item;
 
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.crafting.Ingredient;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
-import net.neoforged.neoforge.registries.datamaps.builtin.FurnaceFuel;
 import net.pepperflakes.sigil_utils.SigilUtils;
 
 public class SigilUtils_Items {
@@ -20,9 +20,8 @@ public class SigilUtils_Items {
     public static final DeferredItem<Item> ORICHALCOM_ALLOY = ITEMS.register("orichalcom_alloy", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> ORICHALCOM_NUGGET = ITEMS.register("orichalcom_nugget", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> UPGRADE_CATALYST = ITEMS.register("upgrade_catalyst", () -> new Item(new Item.Properties()));
-    public static final DeferredItem<Item> ANCIENT_UPGRADE_CATALYST = ITEMS.register("ancient_upgrade_catalyst", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> RING_OF_TRANSMUTATION = ITEMS.register("ring_of_transmutation", () -> new Item(new Item.Properties().stacksTo(1)));
-    public static final DeferredItem<Item> RING_OF_HOLDING = ITEMS.register("ring_of_holding", () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> RING_OF_HOLDING = ITEMS.register("ring_of_holding", () -> new Item(new Item.Properties().stacksTo(1)));
     public static final DeferredItem<Item> ORICHALCOM_EGG = ITEMS.register("orichalcom_egg", () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> ASTRAL_STAR = ITEMS.register("astral_star", () -> new Item(new Item.Properties()));
 

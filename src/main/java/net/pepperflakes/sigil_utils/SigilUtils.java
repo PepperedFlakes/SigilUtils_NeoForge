@@ -1,6 +1,5 @@
 package net.pepperflakes.sigil_utils;
 
-import net.minecraft.world.item.CreativeModeTabs;
 import net.pepperflakes.sigil_utils.block.SigilUtils_Blocks;
 import net.pepperflakes.sigil_utils.item.SigilUtils_CreativeModeTab;
 import net.pepperflakes.sigil_utils.item.SigilUtils_Items;

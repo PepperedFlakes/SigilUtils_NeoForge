@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:ring_of_transmutation"
+    },
+    {
+      "item": "minecraft:zombie_spawn_egg"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:zombified_piglin_spawn_egg"
+  }
+}

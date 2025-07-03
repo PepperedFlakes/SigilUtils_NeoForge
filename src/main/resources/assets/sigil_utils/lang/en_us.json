@@ -11,7 +11,7 @@
   "item.sigil_utils.circadium_ingot": "Circadium Ingot",
   "item.sigil_utils.circadium_plating": "Circadium Plating",
   "block.sigil_utils.circadium_block": "Block of Circadium",
-  "item.sigil_utils.circadium_powder": "Circadium Powder",
+  "item.sigil_utils.circadium_blend": "Circadium Blend",
   "item.sigil_utils.orichalcom_ingot": "Orichalcom Ingot",
   "block.sigil_utils.orichalcom_block": "Block of Orichalcom",
   "item.sigil_utils.orichalcom_nugget": "Orichalcom Nugget",
@@ -47,6 +47,7 @@
   "block.sigil_utils.red_reglazed_terracotta": "Red Reglazed Terracotta",
   "block.sigil_utils.white_reglazed_terracotta": "White Reglazed Terracotta",
   "block.sigil_utils.yellow_reglazed_terracotta": "Yellow Reglazed Terracotta",
+  "block.sigil_utils.chiseled_obsidian":  "Chiseled Obsidian",
 
   "item.sigil_utils.music_disc_rudebuster": "Music Disc",
   "item.sigil_utils.music_disc_rudebuster.desc": "Toby Fox - Rude Buster",

@@ -32,7 +32,6 @@ public class SigilUtils_CreativeModeTab {
                         output.accept(SigilUtils_Items.ORICHALCOM_NUGGET);
                         output.accept(SigilUtils_Blocks.ORICHALCOM_BLOCK);
                         output.accept(SigilUtils_Items.UPGRADE_CATALYST);
-                        output.accept(SigilUtils_Items.ANCIENT_UPGRADE_CATALYST);
                         output.accept(SigilUtils_Items.RING_OF_TRANSMUTATION);
                         output.accept(SigilUtils_Items.RING_OF_HOLDING);
                         output.accept(SigilUtils_Items.ORICHALCOM_EGG);
@@ -57,6 +56,7 @@ public class SigilUtils_CreativeModeTab {
                         output.accept(SigilUtils_Blocks.RED_REGLAZED_TERRACOTTA);
                         output.accept(SigilUtils_Blocks.WHITE_REGLAZED_TERRACOTTA);
                         output.accept(SigilUtils_Blocks.YELLOW_REGLAZED_TERRACOTTA);
+                        output.accept(SigilUtils_Blocks.CHISELED_OBSIDIAN);
 
                         output.accept(SigilUtils_Items.CHERRY);
                         output.accept(SigilUtils_Items.PEACH);

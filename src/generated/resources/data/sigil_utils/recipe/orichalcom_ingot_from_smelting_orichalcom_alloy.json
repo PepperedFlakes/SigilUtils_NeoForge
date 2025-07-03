@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "orichalcom",
+  "ingredient": {
+    "item": "sigil_utils:orichalcom_alloy"
+  },
+  "result": {
+    "count": 1,
+    "id": "sigil_utils:orichalcom_ingot"
+  }
+}

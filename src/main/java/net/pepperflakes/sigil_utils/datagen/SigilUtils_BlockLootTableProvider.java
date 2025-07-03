@@ -1,7 +1,5 @@
 package net.pepperflakes.sigil_utils.datagen;
 
-import net.pepperflakes.sigil_utils.block.SigilUtils_Blocks;
-import net.pepperflakes.sigil_utils.item.SigilUtils_Items;
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.registries.Registries;
@@ -16,6 +14,8 @@ import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.functions.ApplyBonusCount;
 import net.minecraft.world.level.storage.loot.functions.SetItemCountFunction;
 import net.minecraft.world.level.storage.loot.providers.number.UniformGenerator;
+import net.pepperflakes.sigil_utils.block.SigilUtils_Blocks;
+import net.pepperflakes.sigil_utils.item.SigilUtils_Items;
 
 import java.util.Set;
 

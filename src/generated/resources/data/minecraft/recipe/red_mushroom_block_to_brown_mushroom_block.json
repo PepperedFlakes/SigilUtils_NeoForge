@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:ring_of_transmutation"
+    },
+    {
+      "item": "minecraft:red_mushroom_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:brown_mushroom_block"
+  }
+}

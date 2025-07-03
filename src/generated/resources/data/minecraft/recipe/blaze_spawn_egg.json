@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_rod"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "E": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BEB",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:blaze_spawn_egg"
+  }
+}

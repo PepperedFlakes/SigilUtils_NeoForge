@@ -1,0 +1,10 @@
+{
+  "values": {
+    "sigil_utils:charcoal_chunk": {
+      "burn_time": 200
+    },
+    "sigil_utils:coal_chunk": {
+      "burn_time": 200
+    }
+  }
+}

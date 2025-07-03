@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "B": {
+      "item": "minecraft:feather"
+    },
+    "E": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BEB",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chicken_spawn_egg"
+  }
+}

@@ -1,11 +1,11 @@
 package net.pepperflakes.sigil_utils.datagen;
 
-import net.pepperflakes.sigil_utils.SigilUtils;
-import net.pepperflakes.sigil_utils.block.SigilUtils_Blocks;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.client.model.generators.BlockStateProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 import net.neoforged.neoforge.registries.DeferredBlock;
+import net.pepperflakes.sigil_utils.SigilUtils;
+import net.pepperflakes.sigil_utils.block.SigilUtils_Blocks;
 
 public class SigilUtils_BlockStateProvider extends BlockStateProvider {
     public SigilUtils_BlockStateProvider(PackOutput output, ExistingFileHelper exFileHelper) {

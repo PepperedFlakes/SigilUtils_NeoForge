@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    },
+    {
+      "item": "sigil_utils:charcoal_chunk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:charcoal"
+  }
+}

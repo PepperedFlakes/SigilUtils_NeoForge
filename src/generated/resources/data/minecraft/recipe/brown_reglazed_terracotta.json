@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "minecraft:brown_glazed_terracotta"
+    }
+  },
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sigil_utils:brown_reglazed_terracotta"
+  }
+}
