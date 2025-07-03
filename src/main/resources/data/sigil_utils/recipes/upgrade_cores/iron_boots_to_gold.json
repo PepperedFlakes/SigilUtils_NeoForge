@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "addition": {
+    "item": "sigil_utils:upgrade_catalyst"
+  },
+  "result": {
+    "item": "minecraft:golden_boots"
+  }
+}

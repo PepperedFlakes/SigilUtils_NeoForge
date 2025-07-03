@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:golden_leggings"
+  },
+  "addition": {
+    "item": "sigil_utils:upgrade_catalyst"
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings"
+  }
+}

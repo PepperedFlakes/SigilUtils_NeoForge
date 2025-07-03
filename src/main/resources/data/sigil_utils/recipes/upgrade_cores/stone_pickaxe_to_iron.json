@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "sigil_utils:upgrade_catalyst"
+  },
+  "result": {
+    "item": "minecraft:iron_pickaxe"
+  }
+}

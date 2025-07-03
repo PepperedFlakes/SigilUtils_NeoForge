@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "sigil_utils:upgrade_catalyst"
+  },
+  "result": {
+    "item": "minecraft:chainmail_leggings"
+  }
+}

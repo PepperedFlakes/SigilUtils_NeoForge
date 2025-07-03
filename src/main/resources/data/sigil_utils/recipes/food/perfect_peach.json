@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "POP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "sigil_utils:peach"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_nugget"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:perfect_peach",
+    "count": 8
+  }
+}

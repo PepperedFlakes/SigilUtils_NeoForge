@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CVC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "sigil_utils:circadium_powder"
+    },
+    "V": {
+      "item": "sigil_utils:varentium"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:upgrade_catalyst",
+    "count": 2
+  }
+}

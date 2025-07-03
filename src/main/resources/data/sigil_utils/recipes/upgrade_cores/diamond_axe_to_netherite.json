@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "sigil_utils:ancient_upgrade_catalyst"
+  },
+  "result": {
+    "item": "minecraft:netherite_axe"
+  }
+}
